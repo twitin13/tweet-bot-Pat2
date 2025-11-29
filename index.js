@@ -22,7 +22,7 @@ Klaim voucher nya dulu di sini cepetan ⬇️
 https://spf.shopee.co.id/60JtkXL1wC
 https://spf.shopee.co.id/60JtkXL1wC
 
-t. gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr daget gojek gratis ongkir
+t. gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr daget gojek raisa gary iskak 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -39,5 +39,6 @@ t. gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr d
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
