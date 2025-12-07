@@ -19,10 +19,10 @@ Paket ayam spicy large cuma 8K AJAA!
 💯🔥
 
 Klaim voucher nya dulu di sini cepetan ⬇️
-https://spf.shopee.co.id/60JtkXL1wC
-https://spf.shopee.co.id/60JtkXL1wC
+https://spf.shopee.co.id/7fSXNMhn4P
+https://spf.shopee.co.id/7fSXNMhn4P
 
-t. gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr daget gojek raisa gary iskak 
+t. senin selasa rabu gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr daget gojek 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -39,6 +39,7 @@ t. gofood grabfood kode promo go grab shopee food sfood ayam chicken house thr d
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
 
